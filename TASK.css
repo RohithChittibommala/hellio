@@ -408,7 +408,8 @@ font-size: 3.0rem;
     }
     .card
     {
-        padding:10%;
+/*         padding:10%; */
+        margin:5%;
     }
     body
     {
